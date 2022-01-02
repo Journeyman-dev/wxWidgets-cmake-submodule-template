@@ -31,7 +31,7 @@ To learn how to use wxWidgets, you can make use of the following:
  
 If you want further help, you can ask people your questions through internet chat:
 
- * Official wxWidgets IRC Channel - [https://discord.gg/uh7GsCDK](https://discord.gg/uh7GsCDK)
+ * Official wxWidgets IRC Channel - [https://www.wxwidgets.org/support/irc/](https://www.wxwidgets.org/support/irc/)
  * Better C++ Discord Server - [https://discord.gg/cdDKhYhTw2](https://discord.gg/cdDKhYhTw2)
  * Together C & C++ Discord Server - [https://discord.gg/WZjpSkmYHY](https://discord.gg/WZjpSkmYHY) 
  
