@@ -24,14 +24,14 @@ Make sure you set wxApp as the startup project if you are using Visual Studio.
 
 To learn how to use wxWidgets, you can make use of the following:
 
- * Official documentation - [https://docs.wxwidgets.org/3.0/](https://docs.wxwidgets.org/3.0/)
- * Official written tutorials - [https://www.wxwidgets.org/docs/tutorials/](https://www.wxwidgets.org/docs/tutorials/)
+ * Official Documentation - [https://docs.wxwidgets.org/3.0/](https://docs.wxwidgets.org/3.0/)
+ * Official Written Tutorials - [https://www.wxwidgets.org/docs/tutorials/](https://www.wxwidgets.org/docs/tutorials/)
  * Video playlist by Yanson Tech - [https://www.youtube.com/watch?v=uBUv8OpWibA&list=PLpHIphr3laQbBLJ8j4iXy8lieaiY9Q10y&index=2](https://www.youtube.com/watch?v=uBUv8OpWibA&list=PLpHIphr3laQbBLJ8j4iXy8lieaiY9Q10y&index=2)
  * Videos by Javidx9 - [https://www.youtube.com/watch?v=FOIbK4bJKS8](https://www.youtube.com/watch?v=FOIbK4bJKS8) (more in his channel)
  
 If you want further help, you can ask people your questions through internet chat:
 
- * Official wxWidgets IRC channel - [https://discord.gg/uh7GsCDK](https://discord.gg/uh7GsCDK)
+ * Official wxWidgets IRC Channel - [https://discord.gg/uh7GsCDK](https://discord.gg/uh7GsCDK)
  * Better C++ Discord Server - [https://discord.gg/cdDKhYhTw2](https://discord.gg/cdDKhYhTw2)
  * Together C & C++ Discord Server - [https://discord.gg/WZjpSkmYHY](https://discord.gg/WZjpSkmYHY) 
  
