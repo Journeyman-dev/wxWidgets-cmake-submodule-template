@@ -20,7 +20,7 @@ To add new files to the project, add the files to the `src` folder, and then add
 
 Make sure you set wxApp as the startup project if you are using Visual Studio.
 
-# More Information
+## More Information
 
 To learn how to use wxWidgets, you can make use of the following:
 
