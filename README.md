@@ -10,7 +10,7 @@ The following must be installed on your computer:
  * CMake
  * A C++ compiler (can be installed with an IDE like Visual Studio)
  
-If you are using a Windows operating system, you can get git and a bash console here: (https://gitforwindows.org)[https://gitforwindows.org]
+If you are using a Windows operating system, you can get git and a bash console here: [https://gitforwindows.org](https://gitforwindows.org)
 
 ## How To Use
 
